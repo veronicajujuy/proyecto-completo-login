@@ -1,1 +1,1 @@
-# Validación de formulario de registro con Express Validator
+# Proyecto para crear login con session y cookies
